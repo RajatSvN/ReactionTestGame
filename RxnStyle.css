@@ -1,0 +1,14 @@
+#shape{
+background-color:red ;
+width:100;
+height:100;
+margin-left:10;
+margin-top:10;
+}
+body{
+font-family : MS Gothic ;
+}
+#timeHere{
+
+font-weight : bold;
+}
